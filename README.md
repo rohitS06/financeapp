@@ -19,6 +19,7 @@ A command-line Python application to help users manage their personal finances. 
 - Python 3.x
 - SQLite (built-in with Python)
 - PyCharm (recommended IDE)
+- Visual Studio Code
 
 ---
 
